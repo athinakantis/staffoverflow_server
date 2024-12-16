@@ -1,0 +1,224 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstname": "Mia",
+      "lastname": "Virtanen",
+      "employment_type": "Full-time",
+      "role": "Developer",
+      "startdate": "2014-03-17",
+      "department": "IT",
+      "location": "Helsinki",
+      "salary": 4580
+    },
+    {
+      "id": "2",
+      "firstname": "Elias",
+      "lastname": "Laine",
+      "employment_type": "Part-time",
+      "role": "IT Support",
+      "startdate": "2016-07-22",
+      "department": "IT",
+      "location": "Pasila",
+      "salary": 2170
+    },
+    {
+      "id": "3",
+      "firstname": "Sofia",
+      "lastname": "Niemi",
+      "employment_type": "Full-time",
+      "role": "Marketing Lead",
+      "startdate": "2023-10-01",
+      "department": "Marketing",
+      "location": "Helsinki",
+      "salary": 5200
+    },
+    {
+      "id": "4",
+      "firstname": "Oliver",
+      "lastname": "Mäkelä",
+      "employment_type": "Part-time",
+      "role": "Accountant",
+      "startdate": "2017-05-10",
+      "department": "Finance",
+      "location": "Pasila",
+      "salary": 2500
+    },
+    {
+      "id": "5",
+      "firstname": "Aino",
+      "lastname": "Koskinen",
+      "employment_type": "Full-time",
+      "role": "System Admin",
+      "startdate": "2022-12-04",
+      "department": "IT",
+      "location": "Helsinki",
+      "salary": 4000
+    },
+    {
+      "id": "6",
+      "firstname": "Onni",
+      "lastname": "Rantanen",
+      "employment_type": "Full-time",
+      "role": "Financial Analyst",
+      "startdate": "2011-06-12",
+      "department": "Finance",
+      "location": "Pasila",
+      "salary": 5420
+    },
+    {
+      "id": "7",
+      "firstname": "Ella",
+      "lastname": "Järvinen",
+      "employment_type": "Full-time",
+      "role": "Marketing Analyst",
+      "startdate": "2018-09-05",
+      "department": "Marketing",
+      "location": "Helsinki",
+      "salary": 4170
+    },
+    {
+      "id": "8",
+      "firstname": "Eetu",
+      "lastname": "Korhonen",
+      "employment_type": "Part-time",
+      "role": "Administrative Asst.",
+      "startdate": "2024-04-12",
+      "department": "Admin",
+      "location": "Pasila",
+      "salary": 2000
+    },
+    {
+      "id": "9",
+      "firstname": "Aada",
+      "lastname": "Lehtinen",
+      "employment_type": "Full-time",
+      "role": "IT Manager",
+      "startdate": "2024-08-01",
+      "department": "IT",
+      "location": "Helsinki",
+      "salary": 5830
+    },
+    {
+      "id": "10",
+      "firstname": "Leo",
+      "lastname": "Saarinen",
+      "employment_type": "Part-time",
+      "role": "Finance Clerk",
+      "startdate": "2019-11-25",
+      "department": "Finance",
+      "location": "Pasila",
+      "salary": 2330
+    },
+    {
+      "id": "11",
+      "firstname": "Lilja",
+      "lastname": "Heikkinen",
+      "employment_type": "Full-time",
+      "role": "Digital Marketer",
+      "startdate": "2022-06-14",
+      "department": "Marketing",
+      "location": "Helsinki",
+      "salary": 4200
+    },
+    {
+      "id": "12",
+      "firstname": "Veeti",
+      "lastname": "Mäntynen",
+      "employment_type": "Part-time",
+      "role": "Payroll Assistant",
+      "startdate": "2024-09-03",
+      "department": "Finance",
+      "location": "Pasila",
+      "salary": 2100
+    },
+    {
+      "id": "13",
+      "firstname": "Helmi",
+      "lastname": "Mustonen",
+      "employment_type": "Full-time",
+      "role": "SysAdmin Lead",
+      "startdate": "2015-04-29",
+      "department": "IT",
+      "location": "Helsinki",
+      "salary": 4750
+    },
+    {
+      "id": "14",
+      "firstname": "Joona",
+      "lastname": "Salminen",
+      "employment_type": "Full-time",
+      "role": "Accountant",
+      "startdate": "2018-01-16",
+      "department": "Finance",
+      "location": "Pasila",
+      "salary": 4500
+    },
+    {
+      "id": "15",
+      "firstname": "Aino",
+      "lastname": "Aalto",
+      "employment_type": "Part-time",
+      "role": "Office Manager",
+      "startdate": "2023-02-28",
+      "department": "Admin",
+      "location": "Helsinki",
+      "salary": 2300
+    },
+    {
+      "id": "16",
+      "firstname": "Nooa",
+      "lastname": "Hämäläinen",
+      "employment_type": "Full-time",
+      "role": "Marketing Specialist",
+      "startdate": "2020-07-30",
+      "department": "Marketing",
+      "location": "Helsinki",
+      "salary": 3900
+    },
+    {
+      "id": "17",
+      "firstname": "Iida",
+      "lastname": "Salo",
+      "employment_type": "Part-time",
+      "role": "Junior IT Support",
+      "startdate": "2024-06-15",
+      "department": "IT",
+      "location": "Pasila",
+      "salary": 1800
+    },
+    {
+      "id": "18",
+      "firstname": "Akseli",
+      "lastname": "Koivisto",
+      "employment_type": "Full-time",
+      "role": "Admin Assistant",
+      "startdate": "2019-03-08",
+      "department": "Admin",
+      "location": "Pasila",
+      "salary": 3000
+    },
+    {
+      "id": "19",
+      "firstname": "Aliisa",
+      "lastname": "Peltonen",
+      "employment_type": "Full-time",
+      "role": "Financial Analyst",
+      "startdate": "2012-11-21",
+      "department": "Finance",
+      "location": "Helsinki",
+      "salary": 5200
+    },
+    {
+      "id": "20",
+      "firstname": "Luukas",
+      "lastname": "Leinonen",
+      "employment_type": "Full-time",
+      "role": "Data Scientist",
+      "startdate": "2023-11-19",
+      "department": "IT",
+      "location": "Pasila",
+      "salary": 5500
+    }
+  ]
+}
