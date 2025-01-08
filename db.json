@@ -196,15 +196,5 @@
         "department": "Admin",
         "location": "Helsinki",
         "salary": 4000
-    },
-    {
-        "id": "21",
-        "firstname": "Athina",
-        "department": "Kantis",
-        "role": "Web Developer",
-        "location": "Helsinki",
-        "employement_type": "Full-time",
-        "startdate": "01-01-2024",
-        "salary": "4000"
     }
 ]
