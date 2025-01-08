@@ -15,7 +15,6 @@ server.use(middlewares);
 // GET requests
 server.get('/employees', async (req, res) => {
     const data = JSON.parse(await fs.readFile(dbPath));
-    console.log(data);
     let employees = data.sort((a, b) => a.firstname.localeCompare(b.firstname));
     const { _page = 1, _limit = 10, key, value } = req.query;
 
